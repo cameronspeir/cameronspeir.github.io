@@ -1,7 +1,6 @@
 # Saturday July 18, 2020
 
-# Seymour Marine Discovery Center
-
+## Seymour Marine Discovery Center
 ## 100 McAllister Way
 ## Santa Cruz, California 95060
 
