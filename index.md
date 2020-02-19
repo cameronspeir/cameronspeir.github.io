@@ -7,6 +7,8 @@
 
 Seymour Marine Discovery Center is located on the Coastal Sciences Campus at the University of California, Santa Cruz.
 
+[Find directions here.](https://seymourcenter.ucsc.edu/visit/directions/)
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
